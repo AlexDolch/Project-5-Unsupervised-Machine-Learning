@@ -7,3 +7,5 @@ As mentioned in our learning platform we did 3 notebooks, the first doing the "d
 These get loaded in "cluster exploration", transformed und clustered and later sampled in the "Modelling" notebook, mostly manually for now.
 Can do a lot of iterative exploring in the 2nd notebook, as well as way more plots on the different relations between columns.
 Added a "Dump Folder" to keep a bit track of what my colleagues did as well ;)
+
+https://medium.com/@alexdolch/an-unsupervised-machine-learning-project-moosic-the-mosaique-esque-music-moose-7d3a2311c089
