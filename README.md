@@ -7,7 +7,7 @@ Pretty straightforward approach towards this whole topic, since there was a ton 
 * An introduction into the Sklearn module
 * Various scaler and transformers
 * Inertia and silhouette scores
-* Clustering with KMeans
+* Clustering with KMeans  
 As suggested in our learning platform I did 3 notebooks, the first doing the "data preperation", outputting .csv files for the variously-scaled datasets.
 These get loaded in "cluster exploration", transformed und clustered and later sampled in the "Modelling" notebook, mostly manually for now.
 Can do a lot of iterative exploring in the 2nd notebook, as well as way more plots on the different relations between columns.
