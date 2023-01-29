@@ -1,9 +1,14 @@
-# Project-5-Unsupervised-Machine-Learning
-Data Science Bootcamp @WBS Coding School
+## Fifth project of the Data Science Bootcamp @WBS Coding School
+### Unsupervised Machine Learning: Clustering songs for playlists
 
 
-Pretty straightforward approach towards this whole topic, will add the Link to the related article here later.
-As mentioned in our learning platform we did 3 notebooks, the first doing the "data preperation", outputting .csv files for the variously-scaled datasets.
+Pretty straightforward approach towards this whole topic, since there was a ton to learn and read about.
+* Euclidean vs Manhattan distances
+* An introduction into the Sklearn module
+* Various scaler and transformers
+* Inertia and silhouette scores
+* Clustering with KMeans
+As suggested in our learning platform I did 3 notebooks, the first doing the "data preperation", outputting .csv files for the variously-scaled datasets.
 These get loaded in "cluster exploration", transformed und clustered and later sampled in the "Modelling" notebook, mostly manually for now.
 Can do a lot of iterative exploring in the 2nd notebook, as well as way more plots on the different relations between columns.
 Added a "Dump Folder" to keep a bit track of what my colleagues did as well ;)
